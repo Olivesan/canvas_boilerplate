@@ -1,0 +1,1 @@
+<SCRIPT src = "core/js/text.js"></SCRIPT>
